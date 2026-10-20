@@ -1,0 +1,11 @@
+name: site-github-profile
+kind: site
+visibility: public
+description: GitHub profile README for Lucas Winter. Not a product.
+languages: [markdown]
+status: active
+owner: baxx
+license: MIT
+former: lucas-winter-berlin
+github: lucas-winter-berlin/lucas-winter-berlin
+exception: README.md is the GitHub profile page. Do not replace it with the house README.
