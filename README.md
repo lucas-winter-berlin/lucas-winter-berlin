@@ -2,13 +2,13 @@
 
 ### Hi 👋, I'm Lucas!
 
-I build **open source tools and projects**. Technical Product Architect from Berlin.
+IT and process architect from Berlin. I clean up systems and workflows and build tools and platforms, some of them public.
 
 </div>
 
 ---
 
-- 🔭 I'm currently building public tools - from community platforms to small utilities that others can actually use
-- 🌱 I care about software that stays open: no vendor lock-in, clear architecture, easy to fork
-- 📫 How to reach me: [contact@lucaswinter.de](mailto:contact@lucaswinter.de)
-- 📄 More about my work: [lucaswinter.de](https://lucaswinter.de/)
+- 🔭 Currently: Open Practice, a freely accessible knowledge platform (Open Knowledge), AI agents and automation
+- 🌱 Tech: Python, TypeScript/Node.js, Docker/Linux, Shopify, LLM APIs
+- 📫 Contact: lucas.winter@mailbox.org
+- 📄 More: [LinkedIn](https://www.linkedin.com/in/lucas-winter-berlin/) · [open-practice.org](https://open-practice.org)
